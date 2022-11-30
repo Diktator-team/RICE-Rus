@@ -1,9 +1,9 @@
 ﻿l_russian:
  # Misc
- dynn_al_harrani:0 "al-Harrani"
- dynn_al_sabi:0 "al-Sabi"
- Qurra:0 "Qurra"
- Zahrun:0 "Zahrun"
+ dynn_al_harrani:0 "аль-Харрани"
+ dynn_al_sabi:0 "ас-Саби"
+ Qurra:0 "Курра"
+ Zahrun:0 "Захрун"
  Karaya:0 "Karaya"
  Marinus:0 "Marinus"
  Salamanus:0 "Salamanus"
@@ -25,8 +25,8 @@
  dynn_harrani_motto:0 "He who knows his own essence becomes divine" # Based on supposed Plato quote found at the Neoplatonic Academy in Harran
  
  # Game Concepts
- game_concept_harranian_courtier:0 "Harranian Courtier"
- game_concept_harranian_courtiers:0 "Harranian Courtiers"
+ game_concept_harranian_courtier:0 "Харранский придворный"
+ game_concept_harranian_courtiers:0 "Харранские придворные"
  game_concept_harranian_character:0 "Harranian Character"
  game_concept_harranian_characters:0 "Harranian Characters"
  game_concept_harranian_courtier_desc:0 "Occasionally, $game_concept_harranian_characters$ can randomly appear via event for [rulers|E] in the Middle East. They follow the Harranian [GetReligionFamily('rf_pagan').GetName] religion, an ancient, syncretic faith combining Mesopotamian and Hellenic elements that has survived for centuries in the city of Harran, which is in northern Mesopotamia.\n\n$game_concept_harranian_characters$ tend to have a high [learning_skill|E], and would make valuable [courtiers|E]. Sometimes, your $game_concept_harranian_courtier$ might compose academic treatises on various topics. These grant you a special [artifact|E].\n\n$game_concept_harranian_characters$ will stop spawning if the [harran_neoplatonic_academy|E] declines."
